@@ -1,0 +1,12 @@
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\bin\Debug\net7.0\DistributedSystem.Domain.deps.json
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\bin\Debug\net7.0\DistributedSystem.Domain.dll
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\bin\Debug\net7.0\DistributedSystem.Domain.pdb
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\obj\Debug\net7.0\DistributedSystem.Domain.csproj.AssemblyReference.cache
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\obj\Debug\net7.0\DistributedSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\obj\Debug\net7.0\DistributedSystem.Domain.AssemblyInfoInputs.cache
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\obj\Debug\net7.0\DistributedSystem.Domain.AssemblyInfo.cs
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\obj\Debug\net7.0\DistributedSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\obj\Debug\net7.0\DistributedSystem.Domain.dll
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\obj\Debug\net7.0\refint\DistributedSystem.Domain.dll
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\obj\Debug\net7.0\DistributedSystem.Domain.pdb
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Domain\obj\Debug\net7.0\ref\DistributedSystem.Domain.dll

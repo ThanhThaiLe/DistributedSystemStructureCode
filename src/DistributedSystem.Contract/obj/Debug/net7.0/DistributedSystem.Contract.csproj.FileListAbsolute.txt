@@ -1,0 +1,5 @@
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Contract\obj\Debug\net7.0\DistributedSystem.Contract.csproj.AssemblyReference.cache
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Contract\obj\Debug\net7.0\DistributedSystem.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Contract\obj\Debug\net7.0\DistributedSystem.Contract.AssemblyInfoInputs.cache
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Contract\obj\Debug\net7.0\DistributedSystem.Contract.AssemblyInfo.cs
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Contract\obj\Debug\net7.0\DistributedSystem.Contract.csproj.CoreCompileInputs.cache

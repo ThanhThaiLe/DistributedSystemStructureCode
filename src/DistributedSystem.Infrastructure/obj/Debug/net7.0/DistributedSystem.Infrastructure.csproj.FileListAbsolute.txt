@@ -1,0 +1,12 @@
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\bin\Debug\net7.0\DistributedSystem.Infrastructure.deps.json
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\bin\Debug\net7.0\DistributedSystem.Infrastructure.dll
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\bin\Debug\net7.0\DistributedSystem.Infrastructure.pdb
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\obj\Debug\net7.0\DistributedSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\obj\Debug\net7.0\DistributedSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\obj\Debug\net7.0\DistributedSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\obj\Debug\net7.0\DistributedSystem.Infrastructure.AssemblyInfo.cs
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\obj\Debug\net7.0\DistributedSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\obj\Debug\net7.0\DistributedSystem.Infrastructure.dll
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\obj\Debug\net7.0\refint\DistributedSystem.Infrastructure.dll
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\obj\Debug\net7.0\DistributedSystem.Infrastructure.pdb
+D:\Github\DistributedSystemStructureCode\src\DistributedSystem.Infrastructure\obj\Debug\net7.0\ref\DistributedSystem.Infrastructure.dll

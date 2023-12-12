@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OoQcQ47y7+waNKrAYD2atbR4men1zxkxBJgjNFkKqho=",
+  "Source": "DistributedSystem.API",
+  "BasePath": "_content/DistributedSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
